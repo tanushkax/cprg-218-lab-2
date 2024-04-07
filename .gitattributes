@@ -1,0 +1,4 @@
+*.mp4 filter=lfs diff=lfs merge=lfs -text
+promotion.mp4 filter=lfs diff=lfs merge=lfs -text
+ad.mp4 filter=lfs diff=lfs merge=lfs -text
+promotion[[:space:]](1).mp4 filter=lfs diff=lfs merge=lfs -text
